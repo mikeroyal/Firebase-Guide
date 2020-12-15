@@ -43,3 +43,33 @@
 [Fuchsia Reference](https://fuchsia.dev/reference)
 
 [Contributing to Fuchsia](https://fuchsia.dev/fuchsia-src/CONTRIBUTING)
+
+## Tools
+
+[Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Availble on Windows, macOS, Linux, Chrome OS.
+
+[Firebase Analytics](https://developers.google.com/analytics/devguides/collection/firebase/android/start) is a Google API that provides methods for logging events and setting user properties.
+
+[Firebase ML](https://firebase.google.com/products/ml) is an Google API includes all of Firebase's cloud-based ML features. 
+
+[ML Kit](https://firebase.google.com/docs/ml-kit/) is a standalone library for on-device ML, which you can use with or without Firebase. 
+
+[Firebase iOS](https://github.com/firebase/firebase-ios-sdk) is all the Apple platform Firebase SDK source except FirebaseAnalytics, FirebasePerformance, and FirebaseML.
+
+[FlutterFire](https://firebase.flutter.dev/) is a set of [Flutter plugins](https://flutter.io/platform-plugins/) that enable Flutter apps to use [Firebase](https://firebase.google.com/) services. You can follow an example that shows how to use these plugins in the [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html#0) codelab.
+
+[AngularFire](https://firebaseopensource.com/projects/angular/angularfire2) is the official Angular library for [Firebase](https://firebase.google.com/).
+
+[Vuefire](https://vuefire.vuejs.org/) is Firebase bindings for Vue.js & Vuex.
+
+[Reactive Native Firebase](https://github.com/invertase/react-native-firebase) is a well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+
+[React Redux Firebase](https://github.com/prescottprue/react-redux-firebase) is Redux bindings for Firebase that includes React Hooks and Higher Order Components.
+
+[FirebaseUI](https://github.com/firebase/FirebaseUI-Android) is an open-source library for Android that allows you to quickly connect common UI elements to Firebase APIs.
+
+[Pyrebase](https://github.com/thisbejim/Pyrebase) is a  simple python wrapper for the Firebase API.
+
+[EmberFire](https://github.com/firebase/emberfire) is the officially supported adapter for using Firebase with [Ember](https://emberjs.com/).
+
+[ReactFire](https://github.com/FirebaseExtended/reactfire) is a project that provides Hooks, Context Providers, and Components that make it easy to interact with Firebase.
