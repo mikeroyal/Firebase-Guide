@@ -6,7 +6,14 @@
 
 #### A guide covering Firebase including the applications, libraries and tools that will make you a better and more efficient developer with Firebase.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/120120792-86540900-c154-11eb-97c5-f507cc424c7c.png">
+  <br />
+</p>
+
+# Firebase Learning Resources
 
 [Firebase](https://firebase.google.com/) is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for your static files.
 
@@ -44,7 +51,7 @@
 
 [Contributing to Fuchsia](https://fuchsia.dev/fuchsia-src/CONTRIBUTING)
 
-## Tools
+# Firebase Tools & Frameworks
 
 [Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Availble on Windows, macOS, Linux, Chrome OS.
 
@@ -73,3 +80,11 @@
 [EmberFire](https://github.com/firebase/emberfire) is the officially supported adapter for using Firebase with [Ember](https://emberjs.com/).
 
 [ReactFire](https://github.com/FirebaseExtended/reactfire) is a project that provides Hooks, Context Providers, and Components that make it easy to interact with Firebase.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Firebase-Guide/pulls).
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
